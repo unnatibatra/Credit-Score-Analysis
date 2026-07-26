@@ -29,7 +29,6 @@ The objective of this project is to:
 - Matplotlib
 - Seaborn
 - Tableau Public
-- Jupyter Notebook
 
 ---
 
@@ -38,7 +37,6 @@ The objective of this project is to:
 ```
 PaisaBazaar-Credit-Risk-Analysis
 │
-├── data/
 ├── notebooks/
 ├── dashboard/
 ├── images/
